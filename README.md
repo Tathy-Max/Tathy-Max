@@ -29,13 +29,14 @@ I am interested in companies that share this same vision and I am always interes
 
 </div>
 
+## GitHub Stats
+![Tathyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&theme=radical&langs_count=8)](https://github.com/Tathy-Max/github-readme-stats)
+
 ## Where you can find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tathyanna-maximiano/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](tathyanna.maximiano)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Tathyanna#5882)
-
-![Tathyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&theme=radical&langs_count=8)](https://github.com/Tathy-Max/github-readme-stats)
 
 
 
