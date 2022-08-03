@@ -1,4 +1,4 @@
-## Hi, I’m Tathyanna 👩🏻‍💻
+## Hi there, I’m Tathyanna! 👩🏻‍💻
 
 I believe that technology is an important tool for inclusion, with the ability to make people's lives easier, reducing distances and providing better experiences for everyone. 
 I am interested in companies that share this same vision and I am always interested in exchanging knowledge, collaborating and learning from my colleagues and leaders.
@@ -29,7 +29,7 @@ I am interested in companies that share this same vision and I am always interes
 
 </div>
 
-## My Contacts
+## Where you can find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tathyanna-maximiano/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](tathyanna.maximiano)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Tathyanna#5882)
