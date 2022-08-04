@@ -23,12 +23,13 @@ I am interested in companies that share this same vision, and I am always prone 
  <img align="center" alt="Tathy-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
  <img align="center" alt="Tathy-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
+
 ##
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Tathy-Max/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
 ##  
 
 ### Where you can find me
