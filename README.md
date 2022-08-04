@@ -13,8 +13,9 @@ I am interested in companies that share this same vision, and I am always prone 
   <img align="center" alt="Tathy-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="Tathy-boots" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tathy-tail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Tathy-mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">               
- 
+  <img align="center" alt="Tathy-mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> 
+  
+  
 ### Technologies I've been learning
 <div style="display: inline_block">
  <img align="center" alt="Tathy-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,14 +23,15 @@ I am interested in companies that share this same vision, and I am always prone 
  <img align="center" alt="Tathy-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
  <img align="center" alt="Tathy-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
-
 ##
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Tathy-Max/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+##  
 
-## Where you can find me
+### Where you can find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tathyanna-maximiano/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](tathyanna.maximiano)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Tathyanna#5882)
