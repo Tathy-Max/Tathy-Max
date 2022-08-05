@@ -27,7 +27,7 @@ I am interested in companies that share this same vision, and I am always prone 
 ##
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Tathy-Max/github-readme-stats">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="178em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="178em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##  
