@@ -31,9 +31,20 @@ I am interested in companies that share this same vision, and I am always prone 
 </div>
 
 ##  
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tathy-Max&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>  
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tathy-Max&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+
 
 ### Where you can find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tathyanna-maximiano/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/tathyanna_maximiano/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](tathyanna.maximiano)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Tathyanna#5882)
 
