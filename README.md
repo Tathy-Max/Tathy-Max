@@ -28,18 +28,7 @@ I am interested in companies that share this same vision, and I am always prone 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Tathy-Max/github-readme-stats">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Tathy-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="178em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy-Max&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##  
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tathy-Max&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>  
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tathy-Max&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+</div>  
 
 ### Where you can find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tathyanna-maximiano/)
